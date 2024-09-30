@@ -45,3 +45,14 @@ O programa deve armazenar contas em uma lista, uma conta é composta por agênci
 
 ### Dica: 
 Para vincular um usuário a uma conta, filtre a lista de usuários buscando o número do CPF informado para cada usuário da lista.
+
+_________________________________________________________________________________________________________
+
+# Desafio 3
+
+### Objetivo Geral: 
+Iniciar a modelagem do sistema bancário em programação orientada a objetos (POO). Adicionar classes para cliente e as operações bancárias: depósito e saque. Atualizar a implementação do sistema bancário, para armazenar os dados de clientes e contas bancárias em objetos em vez de dicionários. O código deve seguir o modelo de classes UML a seguir:
+
+### Desafio Extra: 
+Após concluir a modelagem das classes e a criação dos métodos. Atualizar os métodos que tratam as opções do menu, para funcionarem com as classes modeladas.
+
